@@ -18,7 +18,7 @@ Train-Validation Curve is a popular method to helps us confirm normal behavioura
  
 Our CNN model has been trained over `20` epochs with batch_size of `60` for Training set and `50` for validation set.
 -     Train-Validation Curve for our CNN model
-     ![image](https://user-images.githubusercontent.com/89198752/153136792-b68cb600-5f30-4ddc-bb78-3dee08e0e2f9.png)
+     ![image](https://user-images.githubusercontent.com/84792746/153714235-9f53f2f6-4f74-49a2-87ac-f4960e6af32a.png)
 
 ## Dependencies
 Since the entire project is based on `Python` programming language, it is necessary to have Python installed in the system. It is recommended to use Python with version `>=3.6`.
