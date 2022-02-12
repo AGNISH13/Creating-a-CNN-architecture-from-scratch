@@ -16,7 +16,7 @@ The CNN created here is having 6 layers, namely:
 - `Inception Block`  
 - `Convolutional Layer 2`
 - `Convolutional Layer 3`    
-- `Convolutional Layer 2`
+- `Convolutional Layer 4`
 - `Max-Pool Layers`
 - `Fully Connected Layers`
 
