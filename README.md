@@ -17,11 +17,12 @@ The CNN created here is having 6 layers, namely:
 - `Convolutional Layer 2`
 - `Convolutional Layer 3`    
 - `Convolutional Layer 4`
-- `Max-Pool Layers`
 - `Fully Connected Layers`
 
-Pictorial representation for our CNN model:
+Flow diagram of the CNN model:
 
+
+![Slide1](https://user-images.githubusercontent.com/84792746/153823542-8a020b7a-3cae-491d-b18a-ad61db9f7ded.png)
 
 
 ## Train-Validation Learning Curve
